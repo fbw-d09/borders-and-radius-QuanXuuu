@@ -1,5 +1,5 @@
 ## Lass uns mal ein Web mit border und border-radius stylen
-![border-radius-photo](/border-radius-exercises.png)
+![border-radius-photo](/borders-radius.png)
 
 *Wenn nicht spezifiziert, sind Eigenschaften wie Farbe, Breite usw deiner Auswahl*
 
