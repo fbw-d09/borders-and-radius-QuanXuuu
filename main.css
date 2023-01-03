@@ -1,0 +1,46 @@
+section
+{
+    border-top: 2px dotted tomato;
+    border-bottom: 2px solid lime;
+    margin: 2em 0;
+}
+
+#paragraph1, 
+#paragraph2
+{
+    border-bottom: 2px solid black;
+    display: inline;
+}
+
+#border__dotted
+{
+    border-style: dotted;
+}
+
+#border__inset
+{
+    border-style: inset;
+}
+
+#border__crimson
+{
+    border: 2px solid crimson;
+}
+
+img
+{
+    border-radius: 50%;
+}
+
+div p
+{
+    border-bottom: 2px solid saddlebrown;
+}
+
+button
+{
+    border: none;
+    border-radius: 5px;
+    background-color: chocolate;
+    padding: 5px 10px;
+}
